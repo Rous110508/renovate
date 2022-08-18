@@ -209,7 +209,7 @@
     "re2": "1.17.1"
   },
   "devDependencies": {
-    "@actions/core": "1.6.0",
+    "@actions/core": "1.9.1",
     "@aws-sdk/client-s3": "3.41.0",
     "@jest/globals": "27.4.2",
     "@jest/reporters": "27.4.2",
