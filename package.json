@@ -178,7 +178,7 @@
     "markdown-it": "12.2.0",
     "markdown-table": "2.0.0",
     "marshal": "0.5.2",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "moo": "0.5.1",
     "nanoid": "3.1.30",
     "node-html-parser": "3.3.6",
